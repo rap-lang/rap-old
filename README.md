@@ -1,10 +1,16 @@
 <div align="center">
-<img src="https://github.com/rap-lang/rap/raw/trunk/res/rap_logo.png" alt="Veloce Logo" style="height: 269px; width:269px;"/>
+<img src="https://github.com/rap-lang/rap/raw/trunk/res/rap_logo.png" alt="rap logo" style="height: 269px; width:269px;"/>
 
 <p>Rapid and Painless programming language.</p>
 
-[![vlang](https://img.shields.io/badge/Made%20with-V-536b8a)](https://vlang.io)
+[![vlang](https://img.shields.io/badge/Made%20with-V-536b8a?style=for-the-badge)](https://vlang.io)
 </div>
+
+## Example
+
+```rap
+out "Hello, Rap";
+```
 
 ## Building
 
